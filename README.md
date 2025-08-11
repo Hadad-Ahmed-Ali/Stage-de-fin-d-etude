@@ -41,7 +41,11 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 ### Challenge du moment ( mois d'août ) :
 Pour ce mois d’août, après avoir mis en place un flux d’extraction automatisé depuis l’outil interne Simplonline via l’ETL Talend, on m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
 
-Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle).
+Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle) :
+
+                   Schéma de modélisation en étoile – Projet Simplonline
+                   
+![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/modele.png)
 
 Concrètement, ce travail consiste à :
 - Implémenter la modélisation dans DBT
