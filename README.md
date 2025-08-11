@@ -39,11 +39,14 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 - Répondre aux demandes d’export de données et produire des reportings mensuels destinés aux équipes marketing, finance, RH, international, etc.
 
 ### Challenge du moment ( mois d'août ) :
-Pour ce mois d’août, après avoir mis en place un flux d’extraction automatisé depuis l’$outil$ interne Simplonline via l’ETL Talend, on m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
+Pour ce mois d’août, après avoir mis en place un flux d’extraction automatisé depuis l’outil interne Simplonline via l’ETL Talend, on m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
 
 Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle).
 
 Concrètement, ce travail consiste à :
+- Implémenter la modélisation dans DBT
+- Connecter le modèle à Google Cloud Platform (BigQuery)
+- Développer des tableaux de bord interactifs dans Looker Studio pour suivre et analyser les indicateurs de performance.
 
 # Ce qui me motive au quotidien
 
