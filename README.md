@@ -38,6 +38,12 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 - Former et accompagner les équipes internes à l’utilisation de ces tableaux de bord via des ateliers pratiques.
 - Répondre aux demandes d’export de données et produire des reportings mensuels destinés aux équipes marketing, finance, RH, international, etc.
 
+### Challenge du moment ( mois d'août ) :
+Pour ce mois d’août, après avoir mis en place un flux d’extraction automatisé depuis l’$outil$ interne Simplonline via l’ETL Talend, on m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
+
+Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle).
+
+Concrètement, ce travail consiste à :
 
 # Ce qui me motive au quotidien
 
