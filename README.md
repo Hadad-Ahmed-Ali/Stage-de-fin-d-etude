@@ -20,6 +20,7 @@ Ce stage a pour objectif la conception et la mise en œuvre d’un projet strat�
 Les données sont collectées via API, fichiers CSV ou FTP, orchestrées avec Talend, puis stockées dans Google Cloud Platform avant d’être modélisées dans dbt.
 Ces modélisations sont directement connectées à BigQuery pour alimenter les tableaux de bord interactifs développés dans Looker Studio.
 
+![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/1.png)
 
 # Mes missions principales
 
