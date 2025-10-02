@@ -27,7 +27,7 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 ### Data Engineering : 
 
 - Assurer, sous la supervision du Data Engineer, la migration et la supervision quotidienne des flux de données multi-sources (API, Google Sheets, outils internes comme Yparéo, Odoo, Simplonline, Sphinx, Salesforce) via Talend, garantissant la fiabilité et la qualité des données.
-- Contrôler l’orchestration des données avec dbt et superviser la migration des données vers BigQuery.
+- Contrôler l’orchestration des données (DBT) et superviser la migration des données vers BigQuery.
 - Auditer les modélisations existantes pour implémenter des tests de qualité automatisés dans dbt (doublons, erreurs de saisie, alertes sur absence de données dans Google Sheets).
 
 ### Data Analysis & Visualisation :
