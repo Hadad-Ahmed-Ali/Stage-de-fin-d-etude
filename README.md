@@ -32,8 +32,8 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 
 ### Data Analysis & Visualisation :
 
-- Concevoir une nouvelle modélisation de donnée (DBT) dans le cadre de la migration vers Google Cloud Platform (Cloud Storage, BigQuery).
 - Recueillir et analyser les besoins métiers pour définir des indicateurs de performance pertinents.
+- Concevoir des modélisations de donnée (DBT) dans le cadre de la migration vers Google Cloud Platform (Cloud Storage, BigQuery).
 - Développer et maintenir des tableaux de bord interactifs sur Looker Studio.
 - Former et accompagner les équipes internes à l’utilisation de ces tableaux de bord via des ateliers pratiques.
 - Répondre aux demandes d’export de données et produire des reportings mensuels destinés aux équipes marketing, finance, RH, international, etc.
