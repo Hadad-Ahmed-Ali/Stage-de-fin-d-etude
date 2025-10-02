@@ -17,7 +17,7 @@ J’occupe le poste de Stagiaire Data où je travaille en étroite collaboration
 
 Ce stage a pour objectif la conception et la mise en œuvre d’un projet stratégique d’extraction, de centralisation, de modélisation et de visualisation des données issues de multiples outils métiers : gestion administrative, ressources humaines, finances, gestion des formations, enquêtes, CRM et plateformes pédagogiques.
 
-Les données sont collectées via API, fichiers CSV, orchestrées avec Talend, puis stockées dans Google Cloud Platform avant d’être modélisées dans dbt.
+Les données sont collectées via API, fichiers Drive, orchestrées avec Talend, puis stockées dans Google Cloud Platform avant d’être modélisées dans dbt.
 Ces modélisations sont directement connectées à BigQuery pour alimenter les tableaux de bord interactifs développés dans Looker Studio.
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/Data.png)
