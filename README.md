@@ -28,18 +28,19 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 
 - Assurer, sous la supervision du Data Engineer, la migration et la supervision quotidienne des flux de données multi-sources (API, Google Sheets, outils internes comme Yparéo, Odoo, Simplonline, Sphinx, Salesforce) via Talend, garantissant la fiabilité et la qualité des données.
 - Contrôler l’orchestration des données (DBT) et superviser la migration des données vers BigQuery.
-- Auditer les modélisations existantes pour implémenter des tests de qualité automatisés dans dbt (doublons, erreurs de saisie, alertes sur absence de données dans Google Sheets).
+- suivi des jobs, vérification de la fraîcheur et de la cohérence des données, en collaboration avec l’équipe d’intégration.
 
 ### Data Analysis & Visualisation :
 
 - Recueillir et analyser les besoins métiers pour définir des indicateurs de performance pertinents.
 - Concevoir des modélisations de donnée (DBT) dans le cadre de la migration vers Google Cloud Platform (Cloud Storage, BigQuery).
+- Création des macros DBT pour contrôler la qualité des données afin de fiabiliser les modèles.
 - Développer et maintenir des tableaux de bord interactifs sur Looker Studio.
 - Former et accompagner les équipes internes à l’utilisation de ces tableaux de bord via des ateliers pratiques.
 - Répondre aux demandes d’export de données et produire des reportings mensuels destinés aux équipes marketing, finance, RH, international, etc.
 
 ### Challenge du moment ( mois d'août ) :
-Pour ce mois d’août, après avoir mis en place un flux d’extraction automatisé depuis l’outil interne Simplonline via l’ETL Talend, on m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
+On m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
 
 Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle) :
 
