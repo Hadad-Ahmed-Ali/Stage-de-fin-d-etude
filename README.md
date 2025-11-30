@@ -40,23 +40,6 @@ Ces modélisations sont directement connectées à BigQuery pour alimenter les t
 - Assurer le traitement des tickets métiers : extraction de données via BigQuery, analyses ad-hoc et production de reportings sur Excel.
 
 
-### Challenge du moment ( mois d'août ) :
-On m’a confié la réalisation du projet Simplonline, à finaliser d’ici la fin du mois.
+### Allez plus loin
 
-Après avoir échangé avec les différents métiers sur les indicateurs de performance à suivre, je conçois une modélisation en étoile afin de structurer les données, les rendre accessibles et exploitables, et mettre en valeur les indicateurs clés définis. (Voir le catalogue du modèle) :
-
-                   Schéma de modélisation en étoile – Projet Simplonline
-                   
-![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/modele.png)
-
-Concrètement, ce travail consiste à :
-- Implémenter la modélisation dans DBT
-- Connecter le modèle à Google Cloud Platform (BigQuery)
-- Développer des tableaux de bord interactifs dans Looker Studio pour suivre et analyser les indicateurs de performance.
-
-# Ce qui me motive au quotidien
-
-- Collaborer et échanger avec une équipe dynamique et passionnée.
-- Relever les défis liés à la gestion, la qualité et l’analyse des données.
-- Développer mes compétences en programmation SQL et en data engineering dans un environnement Big Data.
-- Apporter des solutions adaptées aux besoins métiers grâce à une communication claire et constructive.
+Pour découvrir le travail que j’ai mené et en savoir davantage sur l’entreprise Simplon ainsi que sur les outils data que j’ai utilisés, je vous invite à lire mon rapport de stage ci-joint.
