@@ -14,4 +14,4 @@ J’occupe le poste de Stagiaire Data où je travaille en étroite collaboration
 
 ### Allez plus loin
 
-Pour découvrir le travail que j’ai mené et en savoir davantage sur l’entreprise Simplon ainsi que sur les outils data que j’ai utilisés, je vous invite à lire mon rapport de stage ci-joint.
+Pour découvrir les travaux que j’ai mené et en savoir davantage sur l’entreprise Simplon ainsi que sur les outils data que j’ai utilisés, je vous invite à lire mon rapport de stage ci-joint.
