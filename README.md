@@ -1,4 +1,4 @@
-# SPrésentation de l’entreprise
+# Présentation de l’entreprise
 
 Simplon.co est un réseau d’écoles de formation aux métiers du numérique, reconnu pour son engagement social et inclusif.
 L’organisme forme des publics variés, notamment ceux éloignés de l’emploi, à travers des formations intensives et pratiques.
