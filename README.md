@@ -1,11 +1,11 @@
-# Simplon.co — Présentation de l’entreprise
+# SPrésentation de l’entreprise
 
 Simplon.co est un réseau d’écoles de formation aux métiers du numérique, reconnu pour son engagement social et inclusif.
 L’organisme forme des publics variés, notamment ceux éloignés de l’emploi, à travers des formations intensives et pratiques.
 Simplon.co mise sur la pédagogie collaborative et l’apprentissage par projet pour développer les compétences techniques et humaines indispensables dans les secteurs du digital et de la tech.
 
 
-# À propos de moi & mon stage de fin d’études chez Simplon.co
+# À propos de moi et mon stage de fin d’études chez Simplon.co
 
 Dans le cadre de mon stage de fin d’études, qui s’étend jusqu’en décembre 2025, j’évolue au cœur d’un environnement data et cloud, consolidant mes compétences en SQL, ETL (Talend), modélisation de données (dbt), Google Cloud Platform (BigQuery, Cloud Storage), ainsi qu’en data visualisation (Looker Studio).
 
