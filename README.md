@@ -1,4 +1,4 @@
-### 6 mois de stage de fin d'étude : Gestion, modélisation de données et Datavisualisation
+## 6 mois de stage de fin d'étude : Gestion, modélisation de données et Datavisualisation
 
 ### Remarque
 
