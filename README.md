@@ -1,3 +1,5 @@
+# 6 mois de stage de fin d'étude : Gestion, modélisation de données et Datavisualisation
+
 ### Remarque
 
 Pour découvrir les travaux que j’ai réalisé et en savoir davantage sur l’entreprise Simplon.co, ainsi que sur les outils data que j’ai utilisés, je vous invite à regarder mon rapport de stage ci-joint.
