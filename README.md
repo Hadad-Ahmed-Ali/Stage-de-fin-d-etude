@@ -17,7 +17,7 @@ Dans le cadre de mon stage de fin d’études, j’ai évolué au cœur d’un e
 
 J’ai occupé le poste de stagiaire Data Analytics Engineer (Gestion, modélisation de données et Datavisualisation), où j’ai travaillé en étroite collaboration avec la cheffe de projet data et le data engineer.
 
-# Enseignements retirés et Nouveaux acquis
+# Compétences et connaissances acquises
 
 - Compréhension approfondie du cycle de la donnée, depuis l’analyse des besoins métiers jusqu’à la mise à disposition d’indicateurs fiables pour l’aide à la décision.
 - Monté en compétences sur les outils modernes  de la Data, notamment  *Python*, *Google Cloud Platform*, *DBT*, *BigQuery*, *Looker Studio*, *Apps Script* et *Google Sheets*.
