@@ -15,7 +15,7 @@ Simplon.co mise sur la pédagogie collaborative et l’apprentissage par projet 
 
 Dans le cadre de mon stage de fin d’études, j’ai évolué au cœur d’un environnement data et cloud, consolidant mes compétences en gestion, contrôle, modélisation de données (dbt), Google Cloud Platform (BigQuery, Cloud Storage), ainsi qu’en data visualisation (Looker Studio).
 
-J’ai occupé le poste de stagiaire data, où j’ai travaillé en étroite collaboration avec la cheffe de projet data et le data engineer.
+J’ai occupé le poste de stagiaire Data Analytics Engineer (Gestion, modélisation de données et Datavisualisation), où j’ai travaillé en étroite collaboration avec la cheffe de projet data et le data engineer.
 
 # Enseignements retirés et Nouveaux acquis
 
